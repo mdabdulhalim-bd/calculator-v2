@@ -1,0 +1,8 @@
+.inner{
+  border: 2px solid #ccc;
+  padding: 5px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+

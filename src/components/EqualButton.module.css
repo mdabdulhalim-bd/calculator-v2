@@ -1,0 +1,11 @@
+.equalBtn{
+  width: 160px;
+  padding: 5px;
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: bold;
+  background-color: blueviolet;
+  color: white;
+}

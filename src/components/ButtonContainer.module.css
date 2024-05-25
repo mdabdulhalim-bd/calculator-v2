@@ -1,0 +1,16 @@
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+.button{
+  width: 70px;
+  padding: 14px;
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+}
